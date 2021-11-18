@@ -2,7 +2,7 @@
 
 <!--
 **Viruss98/Viruss98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
+![Tuấn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viruss98&show_icons=true&theme=vue-dark)
 I'm Nguyễn Đức Tuấn
 - 🔭 I’m currently working as Fullstack Javascript Developer 
 - 📫 Connect with me: https://fb.com/tuanpro98tb | https://twitter.com/__fullstackjs | https://linkedin.com/in/nguyễn-đức-tuấn/
