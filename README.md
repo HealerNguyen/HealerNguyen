@@ -5,6 +5,6 @@
 ### Hi there 👋
 I'm Nguyễn Đức Tuấn
 - 🔭 I’m currently working as Fullstack Javascript Developer 
-- 📫 Connect with me: https://fb.com/tuanpro98tb | https://twitter.com/__fullstackjs | https://linkedin.com/in/nguyễn-đức-tuấn/
+- 📫 Connect with me: https://fb.com/healer.nguyen15 | https://twitter.com/__fullstackjs | https://linkedin.com/in/nguyễn-đức-tuấn/
 - 😄 Pronouns: Tễu :v
 - ⚡ Fun fact: Ez game, ez life
