@@ -1,6 +1,6 @@
 <!--
 **Viruss98/Viruss98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-![Tuấn's GitHub](https://github-readme-stats.vercel.app/api?username=Viruss98&show_icons=true&theme=vue-dark)
+![Tuấn's GitHub](https://github-readme-stats.vercel.app/api?username=HealerNguyen&show_icons=true&theme=vue-dark)
 
 ### Hi there 👋
 I'm Nguyễn Đức Tuấn
