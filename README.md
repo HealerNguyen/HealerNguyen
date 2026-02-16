@@ -9,4 +9,4 @@ I'm Nguyễn Đức Tuấn
 
 ![Tuấn's GitHub](./profile/stats.svg)
 
-![HealerNguyen's Top Languages](profile/top-langs.svg)
+![HealerNguyen's Top Languages](./profile/top-langs.svg)
