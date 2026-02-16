@@ -16,5 +16,5 @@ jobs:
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact
-          path: profile-lang/langs.svg
+          path: profile/top-langs.svg
           token: ${{ secrets.PAT }}
