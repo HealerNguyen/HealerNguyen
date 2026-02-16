@@ -7,6 +7,6 @@ I'm Nguyễn Đức Tuấn
 - 😄 Pronouns: Tễu :v
 - ⚡ Fun fact: Ez game, ez life
 
-![Tuấn's GitHub](https://github-readme-stats.vercel.app/api?username=HealerNguyen&show_icons=true&theme=vue-dark&hide_border=true)
+![Tuấn's GitHub](./profile/stats.svg)
 
 ![HealerNguyen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HealerNguyen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
