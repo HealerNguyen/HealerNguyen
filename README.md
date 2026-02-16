@@ -9,4 +9,4 @@ I'm Nguyễn Đức Tuấn
 
 ![Tuấn's GitHub](./profile/stats.svg)
 
-![HealerNguyen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HealerNguyen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![HealerNguyen's Top Languages](profile/top-langs.svg)
